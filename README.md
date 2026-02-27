@@ -19,7 +19,7 @@ Repositório destinado à organização dos meus livros e materiais de estudo na
 - 🐧 [Linux](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/LINUX)
 - 📐 [Matemática](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Matemática)
 - 🔎 [Lógica](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/LOGICA)
-- 🎥 [VIDEO AULAS](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/VIDEO%20AULAS)
+- 🎥 [Vídeo Aulas](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/VIDEO%20AULAS)
 ---
 
 ## 🎯 Objetivo
