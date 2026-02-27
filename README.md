@@ -1,90 +1,31 @@
-<p align="center">
-  <img src="capa-biblioteca.png" alt="Biblioteca Técnica" width="100%">
+<p align="center
+  <img src="assets/capa.png" width="800">
 </p>
 
-# 📚 Biblioteca Técnica Digital
+<h1 align="center">📚 Biblioteca Técnica</h1>
 
-Repositório privado destinado ao armazenamento e organização de livros técnicos para estudo, consulta e evolução profissional.
+<p align="center">
+Repositório destinado à organização dos meus livros e materiais de estudo na área de Tecnologia da Informação.
+</p>
+
+---
+
+## 📂 Acesso Rápido às Pastas
+
+- ☁️ [Computação em Nuvem](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Computação%20em%20Nuvem)
+- 🔐 [Introdução a Segurança da Informação](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Introdução%20a%20Segurança%20da%20Informação)
+- 🧠 [Pensamento Computacional](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Pensamento%20Computacional)
+- 💻 [Programação em C](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Programação%20em%20C)
+- 🐧 [Linux](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Linux)
+- 📐 [Matemática](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Matemática)
+- 🔎 [Lógica](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Lógica)
 
 ---
 
 ## 🎯 Objetivo
 
-Centralizar materiais técnicos organizados por área de conhecimento, facilitando:
-
-- 📖 Consulta rápida
-- 📂 Organização estruturada
-- 🚀 Evolução profissional contínua
-- 🔎 Pesquisa por categoria
+Centralizar e organizar meus materiais de estudo técnico para consulta e evolução profissional.
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-biblioteca-tecnica/
-│
-├── redes/
-├── linux/
-├── programacao/
-├── seguranca-eletronica/
-├── infraestrutura/
-└── README.md
-```
-
----
-
-## 📘 Áreas de Estudo
-
-### 🌐 Redes de Computadores
-- TCP/IP  
-- VLAN  
-- Roteamento  
-- Cabeamento estruturado  
-- Infraestrutura de rede  
-
-### 🐧 Linux
-- Administração de sistemas  
-- Comandos essenciais  
-- Servidores  
-- Automação  
-- Segurança  
-
-### 💻 Programação
-- Lógica de programação  
-- Python  
-- Scripts  
-- Desenvolvimento  
-
-### 🎥 Segurança Eletrônica
-- CFTV  
-- Controle de acesso  
-- Interfones  
-- Infraestrutura técnica  
-
-### 🏗 Infraestrutura
-- Organização de rack  
-- Cabeamento  
-- Elétrica aplicada à TI  
-- Projetos técnicos  
-
----
-
-## 🔐 Observação
-
-Repositório de uso pessoal para organização de materiais técnicos de estudo.
-
----
-
-## 🚀 Atualizações
-
-Materiais adicionados conforme necessidade de estudo e aperfeiçoamento profissional.
-
----
-
-## 👨‍💻 Autor
-
-**Carlos Gismonti**  
-Tecnologia | Infraestrutura | Segurança Eletrônica
-# Biblioteca-Tecnica
-# Biblioteca-Tecnica
+✍️ Autor: Carlos Gismonti
