@@ -13,7 +13,7 @@ Repositório destinado à organização dos meus livros e materiais de estudo na
 ## 📂 Acesso Rápido às Pastas
 
 - ☁️ [COMPUTACAO EM NUVEM](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/COMPUTACAO%20EM%20NUVEM)
-- 🔐 [Introdução a Segurança da Informação](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Introdução%20a%20Segurança%20da%20Informação)
+- 🔐 [Introdução a Segurança da Informação](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/SEGURANCA%20DA%20INFORMACAO)
 - 🧠 [Pensamento Computacional](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Pensamento%20Computacional)
 - 💻 [Programação em C](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Programação%20em%20C)
 - 🐧 [Linux](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Linux)
