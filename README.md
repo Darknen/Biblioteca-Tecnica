@@ -1,5 +1,5 @@
-<p align="center
-  <img src="assets/capa.png" width="800">
+<p align="center">
+  <img src="capa-biblioteca.png" alt="Biblioteca Técnica" width="100%">
 </p>
 
 <h1 align="center">📚 Biblioteca Técnica</h1>
@@ -12,7 +12,7 @@ Repositório destinado à organização dos meus livros e materiais de estudo na
 
 ## 📂 Acesso Rápido às Pastas
 
-- ☁️ [Computação em Nuvem](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Computação%20em%20Nuvem)
+- ☁️ [COMPUTACAO EM NUVEM](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/COMPUTACAO%20EM%20NUVEM)
 - 🔐 [Introdução a Segurança da Informação](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Introdução%20a%20Segurança%20da%20Informação)
 - 🧠 [Pensamento Computacional](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Pensamento%20Computacional)
 - 💻 [Programação em C](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Programação%20em%20C)
