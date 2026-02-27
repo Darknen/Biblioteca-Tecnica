@@ -12,7 +12,19 @@ Repositório destinado à organização dos meus livros e materiais de estudo na
 
 ## 📂 Acesso Rápido às Pastas
 
-- ☁️ [COMPUTACAO EM NUVEM](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/COMPUTACAO%20EM%20NUVEM)
+## ☁️ COMPUTACAO EM NUVEM
+
+### 📘 Engenharia de Software – Ian Sommerville
+
+<a href="https://github.com/Darknen/Biblioteca-Tecnica/blob/main/COMPUTACAO%20EM%20NUVEM/Engenharia%20de%20Software%20-%20Ian%20Sommerville.pdf" target="_blank">
+  <img src="COMPUTACAO EM NUVEM/capa-engenharia-software.jpg" width="150">
+</a>
+
+🔗 **Acessar livro:**  
+[Baixar / Visualizar PDF](https://github.com/Darknen/Biblioteca-Tecnica/blob/main/COMPUTACAO%20EM%20NUVEM/Engenharia%20de%20Software%20-%20Ian%20Sommerville.pdf)
+
+Autor: Ian Sommerville  
+Descrição: Livro clássico sobre processos de desenvolvimento de software, requisitos, arquitetura, testes e manutenção.
 - 🔐 [Introdução a Segurança da Informação](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Introdução%20a%20Segurança%20da%20Informação)
 - 🧠 [Pensamento Computacional](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Pensamento%20Computacional)
 - 💻 [Programação em C](https://github.com/Darknen/Biblioteca-Tecnica/tree/main/Programação%20em%20C)
